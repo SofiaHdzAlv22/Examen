@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: url(https://media.tenor.com/EaVKs4K0iGkAAAAC/black-hole.gif);
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+    color: white;
+    font-family:Helvetica;
+}
